@@ -27,6 +27,11 @@ This repository contains a Bank Loan Analysis project using SQL, designed to dem
 ## ER Diagram
 ![ER_Diagram](ER_Diagram.png)  
 *Visual representation of the database structure and relationships.*
+
+## Query Outputs
+- Sample outputs for KPIs and analysis
+   - `NPA % per branch.png`
+   - `Risk_Segmentation.png`
     
 ## Notes
 - All sample data is **fictional** and designed for **demonstration purposes**.  
